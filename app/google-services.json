@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "1054343744608",
+    "firebase_url": "https://atm2018-2f3b8.firebaseio.com",
+    "project_id": "atm2018-2f3b8",
+    "storage_bucket": "atm2018-2f3b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054343744608:android:5c32cd227c2f1f5a",
+        "android_client_info": {
+          "package_name": "com.moremoregreen.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054343744608-b8c5jortk0ae4ngf0gsbc4jona7m9s6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moremoregreen.atm",
+            "certificate_hash": "27951ba61472771e7b3d42ed1cf73852e17ff76d"
+          }
+        },
+        {
+          "client_id": "1054343744608-fpgeo3q0r756cnmu3i7g10bsikajbn2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUqRaDe7a7LZfbun0LNes87r_0f7LTlE"
+        },
+        {
+          "current_key": "AIzaSyASUqRaDe7a7LZfbun0LNes87r_0f7LTlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054343744608-fpgeo3q0r756cnmu3i7g10bsikajbn2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
